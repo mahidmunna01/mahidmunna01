@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 ### Hi there 👋, Mahid Munna
 #### WordPress Developer 
 ![WordPress Developer ](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/358126800_238066679034472_3303889795185969290_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=52f669&_nc_ohc=iwJ8SNlY1rYAX_zgqWB&_nc_ht=scontent.fdac5-1.fna&oh=00_AfB7AqtYO_ngz0p-DhhNzzxYLnQCyd1GLDujC7kX34UHdA&oe=6500CD90)
