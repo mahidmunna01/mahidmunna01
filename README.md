@@ -10,7 +10,7 @@ Skills:  HTML / CSS / WordPress / Web Development
 
 - 🔭 I’m currently working on Fiverr and Upwork 
 - 🌱 I’m currently learning Web Development  
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development  
 - 😄 Pronouns: Munna 
 - ⚡ Fun fact: Developer 
