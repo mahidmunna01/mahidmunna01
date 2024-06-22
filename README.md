@@ -1,5 +1,5 @@
 
-### Hi there 👋, Mahid Munna
+### Hi there ☺, Mahid Munna
 -----------------------------
 ## Web Developer
 Hi, I’m Mahid Munna a professional Web Developer. Working since 2020 and completed over 200+ projects on web design and development.
