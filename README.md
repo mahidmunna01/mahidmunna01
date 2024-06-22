@@ -1,9 +1,7 @@
 
 ### Hi there 👋, Mahid Munna
 -----------------------------
-### WordPress Developer
-![WordPress Developer](https://media.licdn.com/dms/image/D5616AQGDGErILSgKJw/profile-displaybackgroundimage-shrink_350_1400/0/1701452319650?e=1712793600&v=beta&t=lITA84tYc_C7lccSn-BuD-fUk-qtfSnj_NfS1CwEnLY)
-
+## Web Developer
 Hi, I’m Mahid Munna a professional WordPress Designer and developer. Working since 2020 and completed over 200+ projects on web design and development.
 
 Skills:  HTML / CSS / WordPress / Web Development 
