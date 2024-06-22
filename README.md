@@ -2,9 +2,9 @@
 ### Hi there 👋, Mahid Munna
 -----------------------------
 ## Web Developer
-Hi, I’m Mahid Munna a professional WordPress Designer and developer. Working since 2020 and completed over 200+ projects on web design and development.
+Hi, I’m Mahid Munna a professional Web Developer. Working since 2020 and completed over 200+ projects on web design and development.
 
-Skills:  HTML / CSS / WordPress / Web Development 
+Skills:  HTML / CSS / Tailwind/ Javascript / WordPress / Web Development 
 
 - 🔭 I’m currently working on Fiverr and Upwork 
 - 🌱 I’m currently learning Web Development  
