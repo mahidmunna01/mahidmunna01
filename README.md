@@ -9,6 +9,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: *** Google it "Mahid Munna" ***
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ***I Love Code***
+  
+## 🤷‍♂️ About Me:
+Hi, I’m 𝐌𝐚𝐡𝐢𝐝 𝐌𝐮𝐧𝐧𝐚, a Bangladesh's dedicated WordPress designer and web developer. With 3 years of practical experience, I love building custom websites that don’t just look great but also work smoothly and efficiently.
+I’m all about delivering high-quality results that meet and exceed client expectations. I focus on understanding each project’s unique needs, ensuring that every website I create aligns perfectly with my client’s vision. Whether you’re a startup looking to establish an online presence or an established business wanting a fresh look, I’m here to offer solutions that truly make a difference.
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/mahidmunna) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mahidmunna01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mahidmunna01/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahidmunna01/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mahidmunna01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@mahidmunna01) 
