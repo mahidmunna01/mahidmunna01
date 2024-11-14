@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ***JavaScript***
 - 👯 I’m looking to collaborate on ***Web Development Projects***
 - 💬 Ask me about ***Web Development***
-- 📫 How to reach me: *** Google it "Mahid Munna" ***
+- 📫 How to reach me: ***Google it "Mahid Munna"***
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ***I Love Code***
   
