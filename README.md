@@ -1,14 +1,22 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Web Development Projects
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on Web Development Projects
-- 🤔 I’m looking for help with Web Development
-- 💬 Ask me about ...Web Development
-- 📫 How to reach me: Google "Mahid Munna"
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Love Code
-🤷‍♂️ About Me:
-Hi, I’m 𝐌𝐚𝐡𝐢𝐝 𝐌𝐮𝐧𝐧𝐚, a Bangladesh's dedicated WordPress designer and web developer. With 3 years of practical experience, I love building custom websites that don’t just look great but also work smoothly and efficiently. I’m all about delivering high-quality results that meet and exceed client expectations. I focus on understanding each project’s unique needs, ensuring that every website I create aligns perfectly with my client’s vision. Whether you’re a startup looking to establish an online presence or an established business wanting a fresh look, I’m here to offer solutions that make a difference.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ***Web Development Projects***
+- 🌱 I’m currently learning ***JavaScript***
+- 👯 I’m looking to collaborate on ***Web Development Projects***
+- 💬 Ask me about ***Web Development***
+- 📫 How to reach me: ***Google it "Mahid Munna"***
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: ***I Love Code***
+
+## 🤷‍♂️ About Me:
+Hi, I’m 𝐌𝐚𝐡𝐢𝐝 𝐌𝐮𝐧𝐧𝐚, a Bangladesh's dedicated WordPress designer and web developer. With 3 years of practical
+experience, I love building custom websites that don’t just look great but also work smoothly and efficiently.
+I’m all about delivering high-quality results that meet and exceed client expectations. I focus on understanding each
+project’s unique needs, ensuring that every website I create aligns perfectly with my client’s vision. Whether you’re a
+startup looking to establish an online presence or an established business wanting a fresh look, I’m here to offer
+solutions that make a difference.
 
 
 ## 🌐 Socials:
